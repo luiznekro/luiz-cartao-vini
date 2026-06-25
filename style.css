@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(11, 10, 10);
+    background-image: url(camisa.jfif);
+    background-size: 50%;
+   text-align: center;
+}
+.vinici.html{
+    width: 25%;
+    background-color: rgba(2, 4, 6, 0.427);
+    margin: auto;
+    border-radius: 40px;
+    border-style: groove;
+    margin-top: 45px;
+}
+img{
+    margin-top: 40px;
+    width: 175px;
+}
+p ,h1 ,h2 ,i{
+    color: aliceblue;
+}
